@@ -1,0 +1,3 @@
+D:/a little bit of programming/programming/studia/semestr III/2_TASKS/Problem_Monetarny/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/a little bit of programming/programming/studia/semestr III/2_TASKS/Problem_Monetarny/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/a little bit of programming/programming/studia/semestr III/2_TASKS/Problem_Monetarny/cmake-build-debug/CMakeFiles/rebuild_cache.dir

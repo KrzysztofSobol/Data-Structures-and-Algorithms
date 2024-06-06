@@ -1,0 +1,3 @@
+D:/a little bit of programming/programming/studia/semestr III/2_TASKS/Zadanie_3_1/cmake-build-debug/CMakeFiles/2_TASKS.dir
+D:/a little bit of programming/programming/studia/semestr III/2_TASKS/Zadanie_3_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/a little bit of programming/programming/studia/semestr III/2_TASKS/Zadanie_3_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
