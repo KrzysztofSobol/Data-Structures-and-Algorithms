@@ -1,2 +1,2 @@
 # Data Structures and Algorithms
- advanced algorithmic problems
+ advanced algorithmic problems that I solved during third semester in cpp
